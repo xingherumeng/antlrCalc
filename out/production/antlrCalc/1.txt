@@ -1,0 +1,9 @@
+int a;
+a = 90;
+int n;
+n = 20;
+if a < n:
+write(a);
+else:
+write(n);
+write(a).

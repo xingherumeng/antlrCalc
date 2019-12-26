@@ -1,0 +1,13 @@
+int a;
+a = (90*32.333)/4+3;
+int n;
+n = 20;
+if a < n:
+write(a);
+else:
+if a>1:
+a = 23333;
+else:
+n = 1;
+write(n);
+write(a).
